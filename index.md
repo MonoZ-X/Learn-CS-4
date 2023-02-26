@@ -1,4 +1,4 @@
 ---
-Git'n Going: ICS4U - github pages
+ICS4U: Git'n Going - github pages
 ---
 
