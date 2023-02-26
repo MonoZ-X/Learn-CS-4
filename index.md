@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Git'n Going: ICS4U - github pages
 ---
 
